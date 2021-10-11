@@ -1,2 +1,11 @@
-# handwritten_digit_recognizer
-A deep learning model made on mnist dataset to predict classes of handwritten digits
+# Handwritten Digit Recognizer
+
+The handwritten digit recognition is the ability of software application to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect, since each person has their unique writing style.
+
+A deep learning model trained on mnist dataset to predict classes of handwritten digits.
+
+## About the data
+
+The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+
+It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
